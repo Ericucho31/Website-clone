@@ -1,0 +1,14 @@
+.recuadro-rojo {
+    background-color: #da292a;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    margin: 14px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.recuadro-rojo:hover {
+    padding: 6px;
+}
